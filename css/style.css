@@ -293,7 +293,7 @@ body._touch .menu__list li._active .menu__sub-list {
     -webkit-box-flex: 1;
         -ms-flex: 1 1 100%;
             flex: 1 1 100%;
-    margin: 20px 0 0 0;
+    margin: 25px 0 0 0;
     display: none;
   }
   .menu__sub-link {
